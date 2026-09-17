@@ -8,6 +8,15 @@
 <a href="https://linkedin.com/in/talha aamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="talha aamer" height="30" width="40" /></a>
 </p>
 
+<h1> What I'm currently working on </h1>
+
+<h3> I'm currently working on creating a website for the following YouTube channel 1DEEN:
+https://www.youtube.com/@1deen727/videos
+  
+---
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Tibnaamer&repo=Tibnaamer%2F1-DEEN&description_lines_count=3&theme=midnight-purple)](https://github.com/Tibnaamer/1-DEEN)
+
 ---
 
 🧰  My toolbox
